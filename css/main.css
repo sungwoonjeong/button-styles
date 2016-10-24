@@ -17,7 +17,6 @@ div {
   color: #fff;
   background-color: #333;
   padding: .4em .75em .3em;
-  margin: 0;
   border-width: 3px;
   border-radius: 8px;
   font-size: 1.125rem;
@@ -30,7 +29,12 @@ div {
 }
 
 .btn-ghost {
-  color: #000;
   background-color: #fff;
   border-color: #000;
+  color: #000;
+}
+
+.btn-warning {
+  color: #fff;
+  background-color: #f33;
 }
