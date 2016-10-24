@@ -38,3 +38,7 @@ div {
   color: #fff;
   background-color: #f33;
 }
+
+.btn-small {
+  font-size: .875rem;
+}
