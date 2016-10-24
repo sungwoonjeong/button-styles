@@ -23,3 +23,15 @@ div {
   font-size: 1.125rem;
   text-decoration: none;
 }
+
+.btn-subtle {
+  display: inline-block;
+  color: #fff;
+  background-color: #ccc;
+  padding: .4em .75em .3em;
+  maring: 0;
+  border-width: 3px;
+  border-radius: 8px;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
