@@ -28,3 +28,9 @@ div {
   color: #fff;
   background-color: #ccc;
 }
+
+.btn-ghost {
+  color: #000;
+  background-color: #fff;
+  border-color: #000;
+}
