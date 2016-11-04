@@ -17,7 +17,7 @@ div {
   display: inline-block;
   color: #fff;
   background-color: #333;
-  padding: .4em .8em .6em;
+  padding: .4em .8em .7em;
   border-width: 3px;
   border-radius: 8px;
   font-size: 1.125rem;
@@ -31,7 +31,6 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  border: 3px solid #000;
   color: #000;
 }
 
