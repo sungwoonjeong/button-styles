@@ -31,7 +31,7 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  border-color: #000;
+  border: 3px solid #000;
   color: #000;
 }
 
