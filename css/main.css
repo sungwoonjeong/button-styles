@@ -52,6 +52,14 @@ div {
   background-color: #000;
 }
 
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+}
+
 .btn-warning:hover {
   background-color: #933;
 }
