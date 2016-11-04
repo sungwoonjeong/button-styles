@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
+  background-color: #fff;
 }
 
 *, *::before, *::after {
